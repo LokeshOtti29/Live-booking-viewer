@@ -1,0 +1,30 @@
+# Node.js backend
+node_modules/
+.env
+dist/
+build/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Frontend (if using plain HTML/CSS/JS or build tools)
+public/build/
+public/dist/
+*.cache
+.DS_Store
+
+# OS/system files
+Thumbs.db
+*.swp
+
+# Optional: VS Code config
+.vscode/
+
+# Logs and temporary files
+*.tmp
+*.log
+
+# Mac/Linux specific
+.idea/
