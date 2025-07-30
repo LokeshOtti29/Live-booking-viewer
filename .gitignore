@@ -8,6 +8,8 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
+package-lock.json
+
 
 # Frontend (if using plain HTML/CSS/JS or build tools)
 public/build/
