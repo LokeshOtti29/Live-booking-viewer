@@ -5,7 +5,7 @@ socket.on("new-booking", (booking) => {
   let div = document.createElement("div");
   div.className = "card";
   div.innerHTML = `
-    <strong>Venue:</strong> ${booking.venueName}<br>
+    <strong>VenueName:</strong> ${booking.venueName}<br>
     <strong>Party Size:</strong> ${booking.partySize}<br>
     <strong>Time:</strong> ${booking.time}
   `;
