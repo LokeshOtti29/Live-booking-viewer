@@ -11,9 +11,9 @@ A real-time full-stack web application that simulates and displays live venue bo
 
 ## Tech Stack
 
-**Backend**  - Node.js, Express.js, Socket.IO 
-**Frontend**  - HTML, CSS, JavaScript 
-**Dev Tools** - Nodemon, CORS     
+1) **Backend**  - Node.js, Express.js, Socket.IO 
+2) **Frontend**  - HTML, CSS, JavaScript 
+3) **Dev Tools** - Nodemon, CORS     
 
 ## Getting Started
 
