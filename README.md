@@ -18,8 +18,8 @@ A real-time full-stack web application that simulates and displays live venue bo
 ## Getting Started
 
 ## Prerequisites
--Node.js and npm installed
--Live Server extension
+1) Node.js and npm installed
+2) Live Server extension
 
 ## Backend Setup (Port 3000)
 1) Install dependencies:
