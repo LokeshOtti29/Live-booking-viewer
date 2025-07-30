@@ -36,7 +36,7 @@ setInterval(() => {
 
   bookings.unshift(newBooking);
   io.emit("new-booking", newBooking);
-}, 3000);
+}, 5000);
 server.listen(PORT, () => {
   console.log(`Server running on http://localhost:${PORT}`);
 });
